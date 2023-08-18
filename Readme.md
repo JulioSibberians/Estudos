@@ -8,4 +8,4 @@ Para rodar em sua máquina por favor digite:
 node.js
 ```
 
-Contato email: JulioCsoSoad@gmail.com
+Contato email: Juliocsosoad@gmail.com
